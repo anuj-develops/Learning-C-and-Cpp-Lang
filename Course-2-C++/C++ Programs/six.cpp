@@ -12,5 +12,4 @@ int main()
     s=a+b+c;
     cout<<"sum is "<<s;
     return 0;
-
 }
